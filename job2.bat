@@ -1,1 +1,1 @@
-echo 'triggered at : %date% : %time%'
+echo "triggered at : %date% : %time%"
